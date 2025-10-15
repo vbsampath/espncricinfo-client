@@ -1,0 +1,31 @@
+{
+  "name": "espncricinfo-client",
+  "version": "1.0.0",
+  "description": "A client to access espncricinfo library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbsampath/espncricinfo-client.git"
+  },
+  "keywords": [
+    "espncricinfo",
+    "client",
+    "nodejs",
+    "client",
+    "api"
+  ],
+  "author": "Sampath Vangari <vbsampath@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vbsampath/espncricinfo-client/issues"
+  },
+  "homepage": "https://github.com/vbsampath/espncricinfo-client#readme",
+  "dependencies": {
+    "espncricinfo": "^1.0.0"
+  }
+}
